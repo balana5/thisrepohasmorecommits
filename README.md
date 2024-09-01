@@ -1,9 +1,9 @@
 # This repo has 3166 commits
 
-## Commits in the last 1 second: 5
-## Commits in the last 5 seconds: 5
-## Commits in the last 10 seconds: 5
-## Commits in the last 60 seconds: 5
-## Commits in the last 120 seconds: 5
-## Commits in the last 10 minutes: 5
-## Commits in the last 1 hour: 5
+## Commits in the last 1 second: 8
+## Commits in the last 5 seconds: 8
+## Commits in the last 10 seconds: 8
+## Commits in the last 60 seconds: 8
+## Commits in the last 120 seconds: 8
+## Commits in the last 10 minutes: 8
+## Commits in the last 1 hour: 8
