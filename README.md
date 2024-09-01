@@ -1,9 +1,9 @@
-# This repo has 3154 commits
+# This repo has 3155 commits
 
-## Commits in the last 1 second: 0
-## Commits in the last 5 seconds: 10
-## Commits in the last 10 seconds: 10
-## Commits in the last 60 seconds: 10
-## Commits in the last 120 seconds: 10
-## Commits in the last 10 minutes: 10
-## Commits in the last 1 hour: 10
+## Commits in the last 1 second: 5
+## Commits in the last 5 seconds: 15
+## Commits in the last 10 seconds: 15
+## Commits in the last 60 seconds: 15
+## Commits in the last 120 seconds: 15
+## Commits in the last 10 minutes: 15
+## Commits in the last 1 hour: 15
